@@ -1,0 +1,52 @@
+{
+  "name": "green-pilled-OPTIMISM",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@chakra-ui/vue": "^0.11.0",
+    "@emotion/css": "^11.9.0",
+    "core-js": "^3.6.5",
+    "ethers": "^5.6.5",
+    "vue": "^2.6.11",
+    "zksync-web3": "^0.4.0"
+  },
+  "devDependencies": {
+    "@matterlabs/zksync-contracts": "^0.1.0",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "hardhat": "^2.9.3",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "main": "index.js",
+  "license": "MIT"
+}
