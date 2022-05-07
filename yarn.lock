@@ -1537,10 +1537,6 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@matterlabs/zksync-contracts@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@matterlabs/zksync-contracts/-/zksync-contracts-0.1.0.tgz#1ddb7c9002003a5630bcff0464716a1e81423ea9"
-  integrity sha512-BP36eWERxMQRMzBCxHhNu+ENk0S09BGcal+6jN6mc2wd/ejddP81+qXjcjAt8tUHtEEad7AKI8SO7vHqS5EwCg==
 
 "@metamask/eth-sig-util@^4.0.0":
   version "4.0.1"
@@ -10483,7 +10479,3 @@ yorkie@^2.0.0:
     normalize-path "^1.0.0"
     strip-indent "^2.0.0"
 
-zksync-web3@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/zksync-web3/-/zksync-web3-0.4.0.tgz#9ab3e8648a6ab11d42b649b3458a0383d6c41bab"
-  integrity sha512-LmrjkQlg2YSR+P0J1NQKtkraCN2ESKfVoMxole3NxesrASQTsk6fR5+ph/8Vucq/Xh8EoAafp07+Q6TavP/TTw==
